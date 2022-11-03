@@ -1,7 +1,7 @@
 public class Return {
-    static int [] sum(int num, int count){
+    // static int [] sum(int num, int count){
             
-    }
+    // }
     static int countDigit(int num){
             // Termination Case
             if(num ==0){
